@@ -1,7 +1,8 @@
-<widget xmlns="http://www.w3.org/ns/widgets" id="aplicacion2" version="0.0.1" xmlns: GAP="http://phonegap.com/ns/1.0">
+<?xml version = "1.0" encoding = "UTF-8">
+<Widget xmlns="http://www.w3.org/ns/widgets" id="aplicacion2" version="0.0.1" xmlns: GAP="http://phonegap.com/ns/1.0">
 <name>segunda aplicacion</name>
 <description>esta es la descripcion de la aplicacion</description>
 <author href="build.phonegap.com" email="support@phonegap.com">martin castañeda</author>
 <preference name="fullscreen" value="false"></preference>
 <icon src="http://www.shpakovski.com/static/png-compressor/images/png-compressor-312x312.png"></icon>
-</widget>
+</Widget>
